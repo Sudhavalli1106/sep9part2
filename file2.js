@@ -4,3 +4,5 @@ let b=40
 console.log("test rebase - local - modified by remote");
 console.log("new line added")4
 console.log("test rebase remote");
+let b=5
+let x=7;
